@@ -28,7 +28,7 @@ const videoProjects = [
   {
     id: 1,
     title: "Song of the bow",
-    videoUrl: "https://www.instagram.com/reel/DOmEb9tDTGM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==,
+    videoUrl: "https://www.instagram.com/reel/DOmEb9tDTGM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     category: "Social Media",
   },
   {
@@ -39,27 +39,27 @@ const videoProjects = [
   },
   {
     id: 3,
-    title: "Project Gamma",
-    videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
-    category: "Short Film",
+    title: "Clips conversations",
+    videoUrl: "https://www.instagram.com/reel/C9sjsvysGc9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    category: "Personal Projects",
   },
   {
     id: 4,
-    title: "Project Delta",
-    videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-    category: "Documentary",
+    title: "Restored Testicles",
+    videoUrl: "https://drive.google.com/file/d/17ofDXWyaPc0Vr2-4ASdigSQTMUqiGfiI/view?usp=sharing",
+    category: "Excerpt",
   },
   {
     id: 5,
-    title: "Project Epsilon",
-    videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-    category: "Commercial",
+    title: "Child Testimony",
+    videoUrl: "https://drive.google.com/file/d/17ph0N1FDZORgbV4GLgY_Tnzo0FBebcf4/view?usp=sharing",
+    category: "Excerpt",
   },
   {
     id: 6,
-    title: "Project Zeta",
-    videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-    category: "Music Video",
+    title: "Giants",
+    videoUrl: "https://drive.google.com/file/d/1CLMGwdWb_HRE5o8i16NVezqETGFwCYwD/view?usp=sharing",
+    category: "Social media",
   },
 ];
 
