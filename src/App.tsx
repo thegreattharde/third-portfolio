@@ -27,14 +27,14 @@ import {
 const videoProjects = [
   {
     id: 1,
-    title: "Project Alpha",
-    videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    category: "Commercial",
+    title: "Song of the bow",
+    videoUrl: "https://www.instagram.com/reel/DOmEb9tDTGM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==,
+    category: "Social Media",
   },
   {
     id: 2,
-    title: "Project Beta",
-    videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    title: "Josh Trap Cover",
+    videoUrl: "https://www.instagram.com/reel/DVWW4zKDJii/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     category: "Music Video",
   },
   {
