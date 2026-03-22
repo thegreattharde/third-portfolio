@@ -28,37 +28,37 @@ const videoProjects = [
   {
     id: 1,
     title: "Song of the bow",
-    videoUrl: "https://www.instagram.com/reel/DOmEb9tDTGM/?utm_source=ig_embed&amp;utm_campaign=loading",
+    videoUrl: "https://www.instagram.com/reel/DOmEb9tDTGM/?utm_source=ig_embed&amp;utm_campaign=loading"
     category: "Social Media",
   },
   {
     id: 2,
     title: "Josh Trap Cover",
-    videoUrl: "https://www.instagram.com/reel/DVWW4zKDJii/?utm_source=ig_embed&amp;utm_campaign=loading",
+    videoUrl: "https://www.instagram.com/reel/DVWW4zKDJii/?utm_source=ig_embed&amp;utm_campaign=loading"
     category: "Music Video",
   },
   {
     id: 3,
     title: "Clips conversations",
-    videoUrl: "https://www.instagram.com/reel/C9sjsvysGc9/?utm_source=ig_embed&amp;utm_campaign=loading",
+    videoUrl: "https://www.instagram.com/reel/C9sjsvysGc9/?utm_source=ig_embed&amp;utm_campaign=loading"
     category: "Personal Projects",
   },
   {
     id: 4,
     title: "Restored Testicles",
-    videoUrl: "<iframe src="https://drive.google.com/file/d/17ofDXWyaPc0Vr2-4ASdigSQTMUqiGfiI/preview" width="640" height="480"></iframe>",
+    videoUrl: "https://drive.google.com/file/d/17ofDXWyaPc0Vr2-4ASdigSQTMUqiGfiI/preview" width="640" height="480"></iframe>",
     category: "Excerpt",
   },
   {
     id: 5,
     title: "Child Testimony",
-    videoUrl: "<iframe src="https://drive.google.com/file/d/17ph0N1FDZORgbV4GLgY_Tnzo0FBebcf4/preview" width="640" height="480"></iframe>",
+    videoUrl: "https://drive.google.com/file/d/17ph0N1FDZORgbV4GLgY_Tnzo0FBebcf4/preview" width="640" height="480"></iframe>",
     category: "Excerpt",
   },
   {
     id: 6,
     title: "Giants",
-    videoUrl: "<iframe src="https://drive.google.com/file/d/1CLMGwdWb_HRE5o8i16NVezqETGFwCYwD/preview" width="640" height="480"></iframe>",
+    videoUrl: "https://drive.google.com/file/d/1CLMGwdWb_HRE5o8i16NVezqETGFwCYwD/preview" width="640" height="480"></iframe>",
     category: "Social media",
   },
 ];
